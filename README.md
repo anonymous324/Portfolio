@@ -65,7 +65,7 @@ It showcases my skills, projects, and personal brand. Designed for performance a
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – feel free to use it for educational or inspirational purposes.
+This project is licensed under the **MIT License** 
 
 ---
 
